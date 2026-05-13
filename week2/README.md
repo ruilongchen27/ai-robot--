@@ -15,5 +15,5 @@
 ![image](image copy 3.png)
 ### 截图4
 
-![image](image copy 4.png)
+![image](week2/image copy 4.png)
 
