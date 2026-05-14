@@ -8,12 +8,12 @@
 
 ### 截图2
 
-![image](image copy 2.png)
+![image](2.2.png)
 
 ### 截图3
 
-![image](image copy 3.png)
+![image](2.3.png)
 ### 截图4
 
-![image](week2/image copy 4.png)
+![image](2.4.png)
 
